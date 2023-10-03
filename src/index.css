@@ -1,0 +1,23 @@
+body {
+    background: #212121;
+    color: #f1f1f1;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+a,li {
+    list-style: none;
+    text-decoration: none;
+    color: #656565;
+}
+
+
+.separator {
+    display: block;
+    background: #515151;
+    height: 2px;
+    width: 95vw;
+    margin: 20px auto;
+    border-radius: 2px;
+ }
